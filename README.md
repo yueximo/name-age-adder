@@ -10,7 +10,7 @@ Project made during my [Udemy course](https://www.udemy.com/course/react-the-com
 # Here is what it looks like!
 ![name-age-adder](https://user-images.githubusercontent.com/94990857/149647434-12f2ba91-b587-4388-a8ef-cadd1b876206.png)
 
-#Here is what the error modal looks like!
+# Here is what the error modal looks like!
 ![error modal](https://user-images.githubusercontent.com/94990857/149647445-87673465-e356-442e-a407-2e5cf589d158.png)
 
 
